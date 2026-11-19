@@ -113,7 +113,7 @@ registrados.</td>
 </section>
 </main>
 <script src="script.js"></script>
-
+/* Botón para descargar el manual de usuario */
 <a href="manuallpop.docx" class="btn" target="_blank">
     Descargar manual de usuario
 </a>
