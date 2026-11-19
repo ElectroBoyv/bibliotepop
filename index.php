@@ -1,4 +1,3 @@
-
 /** 
  * Archivo principal de los libros
  * @param {string} host - Dirección del servidor de base de datos
