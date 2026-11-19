@@ -1,3 +1,13 @@
+/** 
+ *  
+ * Guarda los datos de un libro en la base de datos para luego mostrarla en la página.
+ * @param {string} host - Dirección del servidor de base de datos
+ * @param {string} usuario - Nombre del usuario para la base de datos
+ * @param {string} password - Contraseña para ingresar a la base de datos
+ * @param {string} base_datos - Nombre de la base de datos
+ * @param {string} conexion - Conexión con la base de datos
+ */
+
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $host = "fdb1029.awardspace.net"; // Mismos datos de conexión
