@@ -69,7 +69,8 @@ Subí los codigos a GitHub con un `README.md`.
 
 **3.** Agregué al final de `style.css` un código para darle diseño a los botones de prestar y devolver.
 
-<img width="193" height="133" alt="image" src="https://github.com/user-attachments/assets/b190f44a-31ce-477e-89fc-679b1682dd29" />
+<img width="171" height="44" alt="image" src="https://github.com/user-attachments/assets/ffa865a0-bde9-42ea-8c1e-c83c8f14a35e" />
+
 
 #### Miercoles 18 de Septiembre 2026
 ## Botón Consultar Manual
