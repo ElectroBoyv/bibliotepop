@@ -68,6 +68,11 @@ Subí los codigos a GitHub con un `README.md`.
 **2.** Agregué el código del `index.php` que agrega un botón que permite prestar o devolver un libro.
 
 **3.** Agregué al final de `style.css` un código para darle diseño a los botones de prestar y devolver.
+
+<img width="193" height="133" alt="image" src="https://github.com/user-attachments/assets/b190f44a-31ce-477e-89fc-679b1682dd29" />
+
 #### Miercoles 18 de Septiembre 2026
-## Botón Descargar Manual
-Dentro del `index.php` agregué un código que muestra un botón para descargar el manual de usuario
+## Botón Consultar Manual
+Dentro del `index.php` agregué un código que muestra un botón para consultar el manual de usuario
+<img width="250" height="41" alt="image" src="https://github.com/user-attachments/assets/f18b869d-def7-49bf-8cf9-edad381ddf41" />
+
