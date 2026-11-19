@@ -115,8 +115,8 @@ $resultado = $conexion->query("SELECT * FROM libros ORDER BY id DESC");
     <script src="script.js"></script>
 
     <!-- Botón para descargar el manual de usuario -->
-    <a href="manualpop.docx" class="btn" target="_blank">
-        Descargar manual de usuario
+    <a href="manualpopp.pdf" class="btn" target="_blank">
+        Consultar Manual
     </a>
 </body>
 </html>
