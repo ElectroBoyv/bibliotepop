@@ -22,6 +22,7 @@ Creé un subdominio en la página de AwardSpace llamado **bibliopoppl0**.
 Dentro de phpMyAdmin creé una nueva tabla llamadá **"libros"** donde agregué un código para la base de datos.
 
 Guardé libros para tener de ejemplo.
+<img width="1919" height="713" alt="image" src="https://github.com/user-attachments/assets/ac26d200-f72a-4262-ba14-e70a43c0f0a9" />
 
 ---
 - - -
